@@ -16,7 +16,7 @@ export const personal = {
   availability: 'Open to internships · PFE · freelance builds',
   email: 'alilazzem.bus@gmail.com',
   github: 'https://github.com/ali-lazzem',
-  instagram: 'https://www.instagram.com/counter_the_hacker/',
+  instagram: 'https://www.instagram.com/ali.lazzem.tn/',
 };
 
 export const navLinks = [
@@ -334,7 +334,7 @@ export const skillGroups: SkillGroup[] = [
 ];
 
 export const stats = [
-  { value: 90, suffix: 'K+', label: 'Instagram tech audience', note: '@counter_the_hacker — IT · AI · automation · security' },
+  { value: 90, suffix: 'K+', label: 'Instagram tech audience', note: '@ali.lazzem.tn — IT · AI · automation · security' },
   { value: 20, suffix: '+', label: 'Security book copies sold', note: 'Self-written, self-published' },
   { value: 6, suffix: '', label: 'Software / AI builds shipped', note: 'Internship + independent projects' },
   { value: 2, suffix: '', label: 'Company experiences', note: 'STE NET · TOPNET' },
@@ -360,14 +360,14 @@ export const beyond = [
     alt: 'ENSTAB Forum 8th edition organization',
   },
   {
-    title: '@counter_the_hacker — 90K+',
+    title: '@ali.lazzem.tn — 90K+',
     tag: 'Content · Communication',
     headline: 'Technical ideas, translated for 90,000 people.',
     text: 'Built and ran a tech page on IT, AI, automation and cybersecurity to 90K+ followers. Proof that I can explain technology — not just write it.',
     flow: ['Explain', 'Publish', 'Grow', '90K+'],
     image: 'instagram-account.png',
     alt: 'Instagram technology account with 90K followers',
-    link: 'https://www.instagram.com/counter_the_hacker/',
+    link: 'https://www.instagram.com/ali.lazzem.tn/',
   },
 ];
 
